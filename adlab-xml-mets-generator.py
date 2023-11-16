@@ -1,7 +1,7 @@
 from openpyxl import load_workbook
 
-wb = load_workbook(filename='large_file.xlsx', read_only=True)
-ws = wb['big_data']
+wb = load_workbook(filename='../file.xlsx', read_only=True)
+ws = wb['Sheet1']
 
 for row in ws.rows:
     for cell in row:
