@@ -1,8 +1,9 @@
 {  
     "stprog": "http://example.stprog.org",
-    "agency": "example agency",
+    "agency": "ALMA MATER STUDIORUM Università di Bologna - FICLIT ADLab",
     "creator": "example creator",
     "title": "example title",
+    "profile": "example profile",
 
     "name": "TIFF",
     "mime": "image/tiff",
